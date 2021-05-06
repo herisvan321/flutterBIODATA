@@ -1,0 +1,4 @@
+io/flutter/plugins/GeneratedPluginRegistrant.java
+ io.flutter.plugins.GeneratedPluginRegistrant
+com/nusanword/biodata/BuildConfig.java
+ com.nusanword.biodata.BuildConfig
